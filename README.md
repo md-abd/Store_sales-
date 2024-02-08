@@ -1,2 +1,2 @@
-# Store_sales-
-Simple ML project which can increase the sales of a store by telling what kind of items are brought together by a person.
+# Store_sales
+Simple Machine learning project which analyzes the items bought together in a store. This data can be used by Superstores in order to increase their.
